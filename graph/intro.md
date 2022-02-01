@@ -13,12 +13,12 @@ graph = node(also called vertex) + edges
   > 利用程式表達這個圖的話，會用adjacency list
   >```python
   >{
-  > a:[b, c],
-  > b:[d],
-  > c:[e],
-  > d:[],
-  > e:[b],
-  > f:[d]
+  > &nbsp;a:[b, c],
+  > &nbsp;b:[d],
+  > &nbsp;c:[e],
+  > &nbsp;d:[],
+  > &nbsp;e:[b],
+  > &nbsp;f:[d]
   >}
 
   
