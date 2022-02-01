@@ -9,7 +9,18 @@ graph = node(also called vertex) + edges
     b←e\
   > ↓\
   > d←f\
-  > 當我們現在在a時，b和c稱為neighbor nodes(accessible)
+  > 當我們現在在a時，b和c稱為neighbor nodes(accessible)\
+  > 利用程式表達這個圖的話，會用adjacency list
+  >```python
+  >{
+  > a:[b, c],
+  > b:[d],
+  > c:[e],
+  > d:[],
+  > e:[b],
+  > f:[d]
+  >}
+
   
 - undirected graph
   > a—c\
