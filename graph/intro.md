@@ -24,8 +24,10 @@ graph = node(also called vertex) + edges
   >這裡的keys為此graph的所有nodes
   - depth first traversal
     - ex. starting at a: **a,b,d**,...
+    - 使用的資料結構:Stack
   - breadth first traversal
     - ex. starting at a: **a,b,c**,...
+    - 使用的資料結構:Queue
 
   
 - undirected graph
