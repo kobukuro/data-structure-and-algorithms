@@ -11,7 +11,7 @@ graph = node(also called vertex) + edges
   > d←f\
   > 當我們現在在a時，b和c稱為neighbor nodes(accessible)\
   > 利用程式表達這個圖的話，會用adjacency list
-  >```python
+  >```text
   >{
   >   a:[b, c],
   >   b:[d],
@@ -20,6 +20,12 @@ graph = node(also called vertex) + edges
   >   e:[b],
   >   f:[d]
   >}
+  >```
+  >這裡的keys為此graph的所有nodes
+  - depth first traversal
+    - ex. starting at a: **a,b,d**,...
+  - breadth first traversal
+    - ex. starting at a: **a,b,c**,...
 
   
 - undirected graph
