@@ -1,3 +1,5 @@
+reference:https://www.youtube.com/watch?v=tWVWeAqZ0WU
+
 graph = node(also called vertex) + edges
 
 - directed graph
