@@ -1,5 +1,3 @@
-reference:https://www.youtube.com/watch?v=tWVWeAqZ0WU
-
 graph = node(also called vertex) + edges
 
 - directed graph
@@ -34,4 +32,7 @@ graph = node(also called vertex) + edges
   
 - undirected graph
   > a—c\
-  a可以到c，c也可以到a
+  a可以到c，c也可以到a 
+ 
+
+reference:https://www.youtube.com/watch?v=tWVWeAqZ0WU
