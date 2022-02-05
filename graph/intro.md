@@ -22,7 +22,7 @@ graph = node(also called vertex) + edges
   >}
   >```
   >這裡的keys為此graph的所有nodes
-  - ==depth first traversal==
+  - <mark>depth first traversal</mark>
     - ex. starting at a: **a,b,d**,...
     - 使用的資料結構:<mark>Stack</mark>
   - <mark>breadth first traversal</mark>
