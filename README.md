@@ -5,3 +5,4 @@
 -   problems
     -   has path
     -   undirected path
+    -   connected components count
