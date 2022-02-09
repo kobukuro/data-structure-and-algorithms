@@ -7,3 +7,4 @@
     -   undirected path
     -   connected components count
     -   largest component
+    -   shortest path
