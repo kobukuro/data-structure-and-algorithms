@@ -9,3 +9,4 @@
     -   largest component
     -   shortest path
     -   island count
+    -   minimum island
