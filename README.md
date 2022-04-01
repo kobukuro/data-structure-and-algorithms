@@ -14,3 +14,4 @@
 -   depth first values
 -   breadth first values
 -   tree includes
+-   tree sum
