@@ -15,3 +15,4 @@
 -   breadth first values
 -   tree includes
 -   tree sum
+-   tree min value
