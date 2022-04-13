@@ -16,3 +16,4 @@
 -   tree includes
 -   tree sum
 -   tree min value
+-   max root to leaf path sum
