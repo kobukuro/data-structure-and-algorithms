@@ -17,3 +17,5 @@
 -   tree sum
 -   tree min value
 -   max root to leaf path sum
+## Linked List
+-   linked list traversal
