@@ -19,3 +19,4 @@
 -   max root to leaf path sum
 ## Linked List
 -   linked list traversal
+-   linked list values
