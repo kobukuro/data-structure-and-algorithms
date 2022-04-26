@@ -20,3 +20,4 @@
 ## Linked List
 -   linked list traversal
 -   linked list values
+-   sum list
