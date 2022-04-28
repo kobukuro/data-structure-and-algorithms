@@ -21,3 +21,4 @@
 -   linked list traversal
 -   linked list values
 -   sum list
+-   linked list find
