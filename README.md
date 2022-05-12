@@ -22,3 +22,4 @@
 -   linked list values
 -   sum list
 -   linked list find
+-   get node value
