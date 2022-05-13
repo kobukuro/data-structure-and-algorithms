@@ -23,3 +23,4 @@
 -   sum list
 -   linked list find
 -   get node value
+-   reverse list
