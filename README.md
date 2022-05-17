@@ -27,3 +27,4 @@
 -   zipper lists
 ## Dynamic Programming
 -   fib
+-   grid traveler
